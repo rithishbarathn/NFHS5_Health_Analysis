@@ -61,21 +61,6 @@ The dataset contains health statistics such as:
 
 ---
 
-## 📂 Project Structure
-
-```
-NFHS5-Health-Analysis/
-│
-├── NFHS5_Kaggle_Analysis.ipynb
-├── archive.zip
-├── README.md
-└── outputs/
-    ├── charts/
-    └── maps/
-```
-
----
-
 ## 🚀 Project Workflow
 
 ### Phase 1 – Data Preparation
